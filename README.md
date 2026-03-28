@@ -4,8 +4,8 @@
 ---
 
 ### 👤 Student Details
-* **Name:** Mohit Pillai🤵
-* **Registration Number:** 25BAI11111
+* **Name:** **MOHIT PILLAI**
+* **Registration Number:** **25BAI11111**
 * **Branch:** B.Tech CSE in AI&ML
 * **Batch:** 2025-2029
 
@@ -23,7 +23,7 @@ This repository contains my final portfolio for the **CSE0001 Digital Literacy**
 
 #### 🌐 Module 2: Professional Presence
 * **Goal:** Building a professional identity online.
-* **Profiles:** Linked accounts for GitHub, LinkedIn, and [Third Platform].
+* **Profiles:** Linked accounts for GitHub, LinkedIn, and Kaggle.
 * [View Task 2 Folder](./TASK-2-Portfolio/)
 
 #### 💻 Module 3: Collaboration & Coding
@@ -53,4 +53,4 @@ This repository contains my final portfolio for the **CSE0001 Digital Literacy**
 ---
 
 ### 📄 Final Report
-The comprehensive project report documenting all reflections and observations can be found in the [Report Folder](./report/).
+The comprehensive project report documenting all reflections and observations can be found in the [Report Folder](./Report/).
